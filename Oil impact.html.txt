@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>2026 伊朗局势对原油架构影响 | 2026 Iran Conflict Oil Impact</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 20px auto; padding: 20px; }
+        h1 { color: #d32f2f; border-bottom: 2px solid #d32f2f; }
+        h2 { color: #1976d2; margin-top: 30px; }
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f5f5f5; }
+        .highlight { font-weight: bold; color: #e64a19; }
+    </style>
+</head>
+<body>
+
+    <h1>2026 伊朗局势对全球原油架构的影响</h1>
+    <p><em>更新日期：2026年3月25日 | Updated: March 25, 2026</em></p>
+
+    <h2>1. 核心瓶颈：霍尔木兹海峡 | The Hormuz Bottleneck</h2>
+    <p>由于军事冲突，<span class="highlight">霍尔木兹海峡</span>一度封锁，导致全球约 20% 的原油供应中断。布伦特原油价格已飙升至每桶 100 美元以上。</p>
+    <p>Due to the military conflict, the <span class="highlight">Strait of Hormuz</span> was blocked, disrupting about 20% of global oil supply. Brent crude prices have surged past $100 per barrel.</p>
+
+    <h2>2. 对各主要国家的影响 | Impact on Key Nations</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>国家/地区 (Country)</th>
+                <th>影响描述 (Impact Description)</th>
+                <th>风险等级 (Risk Level)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><b>中国 (China)</b></td>
+                <td>作为全球最大进口国，面临供应短缺；虽有库存缓冲，但中小炼厂受挫。</td>
+                <td>高 (High)</td>
+            </tr>
+            <tr>
+                <td><b>欧洲 (Europe)</b></td>
+                <td>能源通胀加剧，德国、意大利等工业强国面临经济衰退压力。</td>
+                <td>中高 (Mid-High)</td>
+            </tr>
+            <tr>
+                <td><b>美国 (USA)</b></td>
+                <td>汽油价格平均上涨 23.6%，作为能源出口国具有一定防御力，但面临通胀压力。</td>
+                <td>中 (Medium)</td>
+            </tr>
+            <tr>
+                <td><b>东南亚 (SE Asia)</b></td>
+                <td>孟加拉国等国因高能源成本采取紧急节能措施（如关闭大学）。</td>
+                <td>极高 (Extreme)</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>3. 结构性转变 | Structural Shifts</h2>
+    <ul>
+        <li><b>炼化成本倍增：</b> 航空煤油和柴油等精炼产品价格涨幅超过原油本身。</li>
+        <li><b>供应链重组：</b> 进口国被迫寻找波斯湾以外的替代来源（如加拿大、墨西哥）。</li>
+    </ul>
+
+</body>
+</html>
